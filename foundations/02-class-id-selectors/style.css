@@ -1,5 +1,6 @@
 .p {
-    background-color: #f1a9e5
+    background-color: #f1a9e5;
+    font-family: verdana, "DejaVu Sans", sans-serif
 }
 .cooler {
     font-size: 24pt;
@@ -11,8 +12,5 @@
 #four {
     font-size: 24pt;
     font-weight: bold;
-    background-color: rgb(118, 212, 113);
-}
-.both {
-    font-family: verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(118, 212, 113)
 }
